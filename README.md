@@ -41,3 +41,7 @@
 8. Switch to main branch - 'git checkout main'.
 9. Then merge - 'git merge [branch]'.
 10. Then push the merged main branch to GitHub. 
+
+# Tags
+
+1. Tags are a pointer to a particular commit. Use to label milestones / versions. Tags are immutable so you can use them to revisit previous versions etc. 
